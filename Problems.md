@@ -12,6 +12,13 @@ One major advantage of this system is that it enables cross-platform (limited to
 
 Concluding that, it can be said that debugging web apps normaly is an easy task and there are powerful tools which help developers.
 
-Unforunately, nothing like that can be said about the debugging capabilities of the Samsung SmartTV platform.
+Unfortunately, nothing like that can be said about the debugging capabilities of the Samsung SmartTV platform.
 
-cross-platform development
+### No cross-platform
+
+First of all, the SDK is only provided for Microsoft Windows which makes it impossible to run the emulator or isntall the editor on other operating systems.
+
+### Poor emulator
+- app runs on emulator -> does not run on TV
+
+### Poor documentation
