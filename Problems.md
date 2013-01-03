@@ -16,9 +16,12 @@ Unfortunately, nothing like that can be said about the debugging capabilities of
 
 ### No cross-platform
 
-First of all, the SDK is only provided for Microsoft Windows which makes it impossible to run the emulator or isntall the editor on other operating systems.
+First of all, the SDK is only provided for Microsoft Windows which makes it impossible to run the emulator or install the editor on other operating systems. 
 
 ### Poor emulator
+
 - app runs on emulator -> does not run on TV
 
 ### Poor documentation
+
+### Platforms outdate extremely fast
