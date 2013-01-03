@@ -1,3 +1,3 @@
-# How does it work?
+# The Platform
 
-Enter Text in Markdown format.
+SmartTV has become a widely used term for TV enhancements that enable certain Internet-related features and
